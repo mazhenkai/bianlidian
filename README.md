@@ -15,6 +15,8 @@
 
 3、文章的原始数据在8个csv里面，采用不同关键字访问北京和上海的关键字进行了获取，但是注意这里的gps的编码是百度的br09的  
 
+4、若还有问题解决不了，还可以参照百度地图api的官方页面http://lbsyun.baidu.com/index.php?title=webapi/guide/webservice-placeapi  
+
 上海大学社会学院 马振凯  
 
 邮箱：ma.zhenkai@foxmail.com   
